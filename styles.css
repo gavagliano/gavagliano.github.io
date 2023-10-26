@@ -1,0 +1,10 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.link-container a {
+    display: block; /* Make the links block-level elements to stack vertically */
+    margin-bottom: 10px;
+
+}
