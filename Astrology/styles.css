@@ -1,0 +1,21 @@
+body {
+    padding-top: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0 40px; /* Adjust the value to your preference */
+    line-height: 1.4; 
+    color: white;
+    align-items: center;
+
+
+  }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
